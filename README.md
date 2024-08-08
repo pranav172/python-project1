@@ -1,2 +1,3 @@
-# python-projects
-It contains all the basic and advanced flutter projects
+# python-projects/pricewatcher
+
+checks the product price
